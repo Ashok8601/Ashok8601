@@ -1,3 +1,4 @@
+![](https://github.com/Ashok8601/Ashok8601/blob/main/Gemini_Generated_Image_xvgrkexvgrkexvgr.png)
 <h1 align="center">Hi 👋, I'm Ashok Kumar</h1>
 <h3 align="center">A passionate Ml and python developer from India</h3>
 
