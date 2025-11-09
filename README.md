@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Ml and python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok8601&label=Profile%20views&color=0e75b6&style=flat" alt="ashok8601" /> </p>
-
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashok8601" alt="ashok8601" /></a> </p>
 
 - 🔭 I’m currently working on [Rojgaar hunt](rojgarhunt.onrender.com)
